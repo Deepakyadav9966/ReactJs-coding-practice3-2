@@ -40,7 +40,7 @@ const App = () => (
   <div className="bg-container">
     <h1 className="main-heading">Learn 4.0 Technologies</h1>
     <p className="description">
-      Get trained by alumini of IITs and top companies like
+      Get trained by alumni of IITs and top companies like
       Amazon,Microsoft,Intel,Nvidia,Qualcomm,etc. Learn directly from
       professionals involved in product Development.
     </p>
